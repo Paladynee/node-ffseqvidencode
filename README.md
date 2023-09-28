@@ -30,7 +30,7 @@ subinfos/
 
 ### run `node start.js`.
 
-it scans every file in `videos/` and encode it using `h264_hvenc`. outputs will be saved to `out/{filename}_out2.mp4`.
+it scans every file in `videos/` and encode it using `h264_nvenc`. outputs will be saved to `out/{filename}_out2.mp4`.
 
 ### running `node integrity_checker.js`
 
