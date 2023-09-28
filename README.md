@@ -1,3 +1,5 @@
+# ⚠️ WARNING! HARDCODED PATH VALUES FOR DRIVE D:/ ⚠️
+
 # node-ffseqvidencode - encode videos sequentially using node.js and ffmpeg
 
 ### requirements:
